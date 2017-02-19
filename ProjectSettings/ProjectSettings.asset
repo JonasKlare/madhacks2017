@@ -461,8 +461,9 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
-  cloudProjectId: 61323ca1-f87a-4e5f-b4ec-c07a12979103
+  cloudProjectId: f99feea0-6b3e-41e1-86a9-2d9caf644ad3
   projectName: SicknessCell
-  organizationId: jonasklare
+  organizationId: rosalindstengle
   cloudEnabled: 0
